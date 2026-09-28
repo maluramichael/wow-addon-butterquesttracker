@@ -1,3 +1,8 @@
+<!-- links:start -->
+[![Support me on Ko-fi](https://malura.de/assets/badge/kofi.svg)](https://malura.de/go/kofi?ref=wow-addon-butterquesttracker)
+[![Check out my page](https://malura.de/assets/badge/malura.svg)](https://malura.de/go/site?ref=wow-addon-butterquesttracker)
+<!-- links:end -->
+
 ![Game Version](https://img.shields.io/badge/Game%20Version-1.13.5-informational)
 [![CurseForge](https://img.shields.io/badge/CurseForge-Published-success)](https://www.curseforge.com/wow/addons/butter-quest-tracker)
 
